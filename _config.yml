@@ -82,7 +82,8 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+  - "https://twitter.com/malia_santos1" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -94,11 +95,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malia A. Santos"
+  name             : "Malia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Evolutionary biologist interested in plant-herbivore interactions"
-  location         : "Moscow, ID"
-  email            : 
+  bio              : "Evolutionary biologist and botanist interested in plant-herbivore interactions"
+  location         : "Currently: Moscow, Idaho -> Headed to: Laramie, Wyoming"
+  email            : "maliasantos790@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,7 +109,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/malia_santos1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
