@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Malia A. Santos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Moscow, ID -> Laramie, WY"
-  email            : "maliasantos790@gmail.com"
+  bio              : "Evolutionary biologist interested in plant-herbivore interactions"
+  location         : "Moscow, ID"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
