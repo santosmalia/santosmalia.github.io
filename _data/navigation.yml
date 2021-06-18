@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://santosmalia.github.io/
   - title: "About"
-    url: https://santosmalia.github.io/about/
+    url: /about/
   - title: "Research"
-    url: https://santosmalia.github.io/research/
+    url: /research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
