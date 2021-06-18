@@ -1,6 +1,6 @@
 ---
 permalink: about/
-title: "Hey!"
+title: "About me!"
 toc: true
 
 header:
