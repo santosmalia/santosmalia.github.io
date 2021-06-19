@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: https://santosmalia.github.io/
+permalink: /home/
 author_profile: true
 
 header:
