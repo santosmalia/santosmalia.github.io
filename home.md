@@ -4,8 +4,8 @@ permalink: /
 author_profile: true
 
 header:
-  overlay_image: /assets/images/green.jpg
-excerpt: 'Plant phylogeneticist at the University of Idaho'
+  overlay_image: /assets/images/header2.jpg
+excerpt: 'Plant phylogeneticist in the Tank Lab'
 
 feature_row:
   - image_path: /assets/images/blue-green.jpg
