@@ -7,10 +7,6 @@ header:
   overlay_image: /assets/images/header1.JPG
 ---
 
-## About This Site
-
-On this site, you will find information about my [research interests](https://santosmalia.github.io/research/)!
-
 ## My Background
 ### About Me
 My name is Malia Santos and I am a PhD Candidate in [the Tank Lab](http://davetank.github.io/tank-lab/) at [the University of Idaho](https://www.uidaho.edu). We are currently in the process of moving to [the University of Wyoming] (http://www.uwyo.edu/)! 
