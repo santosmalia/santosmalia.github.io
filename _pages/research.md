@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
   
 header:
-  overlay_image: /assets/images/header2.jpg
+  overlay_image: /assets/images/header2.JPG
 ---
 
 ## Welcome!
