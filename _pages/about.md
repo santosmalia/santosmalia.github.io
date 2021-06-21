@@ -19,6 +19,6 @@ I was born and raised in Hawaiʻi and stem from native Hawaiian heritage. During
 
 
 ### CV
-Find my CV [here](/assets/files//files/Santos_Malia_CV_2021.pdf).
+Find my CV [here](/assets/files/Santos_Malia_CV_2021.pdf).
 
 ---
