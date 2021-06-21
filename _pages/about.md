@@ -9,7 +9,7 @@ header:
 
 ## My Background
 ### About Me
-My name is Malia Santos and I am a PhD Candidate in [the Tank Lab](http://davetank.github.io/tank-lab/) at [the University of Idaho](https://www.uidaho.edu). We are currently in the process of moving to [the University of Wyoming] (http://www.uwyo.edu/)! 
+My name is Malia Santos and I am a PhD Candidate in [the Tank Lab](http://davetank.github.io/tank-lab/) at [the University of Idaho](https://www.uidaho.edu). We are currently in the process of moving to the [University of Wyoming](http://www.uwyo.edu/) so stay tuned for more information!
 
 I graduated from [Willamette University](https://willamette.edu/) with a BA in Biology under the supervision of [Dr. Christopher Smith](http://www.willamette.edu/~csmith/ChrisSmith.htm)  where I studied the effects of climate change on Joshua Trees using empirical and simulation based methods. After that, I continued to be a field technician every summer and spring to help coordinate citizen science experiments and research on Dr. Smith’s work in yucca-yucca moth interactions, hybridization between sister species, and the effects of climate change on Joshua trees. I recieved honors for my senior thesis research for studying the genetic differentiation between two subspecies of Great Bustards *(Otis tarda)*. This was done by collaboration with the [Eurasian Bustard Alliance](http://eurasianbustardalliance.org/) and [Dr. Mimi Kessler](https://mimikessler.wordpress.com/).  
 
